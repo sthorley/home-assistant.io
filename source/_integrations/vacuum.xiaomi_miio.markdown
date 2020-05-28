@@ -226,7 +226,7 @@ The following table shows the units of measurement for each attribute:
 6. Then click on about.
 7. Tap the version number (Plug-in version 2.77.1 as of January 2020) at the bottom of the screen repeatedly.
 8. You should now see 2 extra options listed in English, this means you enabled developer mode. [if not, try all steps again!].
-9. Under "Hub info" there is quite some text in JSON format, this includes the "token" that you need.
+9. Under "Hub info" there is quite some text in JSON format, this includes the "token" that you need. Note that each Xiaomi device requires a unique token and wehile this will provide the token for the hub you will need to use another method to obtain further tokens for any additional wifi plugs, vacuums, etc.
 
 ### Alternative methods
 
